@@ -15,7 +15,7 @@ class Solution
                 res=i;
             }
         }
-        return res;
+       return res;
     }
     int lcm(int a , int b)
     { 
