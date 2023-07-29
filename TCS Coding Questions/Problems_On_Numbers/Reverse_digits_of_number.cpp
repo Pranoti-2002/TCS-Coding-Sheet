@@ -13,7 +13,7 @@ class Solution
             rev=n%10+rev*10;
             n/=10;
         }
-        return rev;
+       return rev;
     }
 };
 int main()
