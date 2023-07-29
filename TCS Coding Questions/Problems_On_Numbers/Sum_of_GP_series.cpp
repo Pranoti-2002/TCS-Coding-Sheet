@@ -5,6 +5,7 @@ using namespace std;
 class Solution
 { 
     public:
+
     float sum1(float a , float r , float n) 
     {   
         return  (a * (pow(r, n)-1) / (r-1));   
