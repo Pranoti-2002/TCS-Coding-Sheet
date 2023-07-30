@@ -5,7 +5,7 @@ using namespace std;
 
 class Solution
 {
-    public:
+    public: 
 
     int largest_factor(int n , int k)
     {   
