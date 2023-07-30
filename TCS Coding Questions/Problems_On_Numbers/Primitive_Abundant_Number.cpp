@@ -3,7 +3,7 @@ using namespace std;
 
 class Solution
 {
-    public: 
+     public: 
 
     int sumOfDivisors(int n)
     {
